@@ -1,0 +1,1 @@
+# fantasygoldjs-lib
