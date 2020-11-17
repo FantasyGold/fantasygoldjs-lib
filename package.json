@@ -23,7 +23,7 @@
   "dependencies": {
     "bignumber.js": "^4.1.0",
     "bitcoinjs-lib": "^3.3.2",
-    "@fantasygold/fantasygold-opcodes": "^0.0.1",
+    "fantasygold-opcodes":  "git://github.com/fantasygold/fantasygold-opcodes.git#master",
     "safe-buffer": "^5.1.1"
   }
 }
